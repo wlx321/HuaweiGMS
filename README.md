@@ -23,12 +23,20 @@
 ## 4.HW安装器
 （1）打开设置-系统和更新-纯净模式-退出-仍然退出  
 （2）安装[0.apk](https://wwl.lanzouv.com/b03jis8re)，密码：ywcs  
-（3）将时间调回正常的时间。
+（3）将时间调回正常的时间。  
 （4）安装完成后打开桌面上的HW安装器，挂上VPN，点account  
 
 ## 5.依次安装。
 （1）依次安装[1.apk、2.apk、4.apk、5.apk、6.apk、7.apk](https://wwl.lanzouv.com/b03jis8re)密码：ywcs    注意3.apk不用装  
-（2）全都安装完后，返回桌面，卸载HW安装器。Play（3）然后安装[3.apk](https://wwl.lanzouv.com/b03jis8re)密码：ywcs    可能耗时较长，请耐心等待。  
-（3）挂上VPN，打开Google Play，如果报错就点重试。
+（2）全都安装完后，返回桌面，卸载HW安装器  
+（3）然后安装[3.apk](https://wwl.lanzouv.com/b03jis8re)密码：ywcs    可能耗时较长，请耐心等待。  
+（4）挂上VPN，打开Google Play，如果报错就点重试。
 
 ## 6.解决“此设备未经过Play保护机制的弹窗
+（1）从Google Play上下载Device ID，注意是紫色的那个版本，一定要认准来。  
+（2）打开Device ID，然后退出。  
+（3）打开设置-应用服务-应用管理-Google Play服务，将其卸载。卸载可能有点慢，请耐心等待。  
+（4）卸载完成后安装[8.apk](https://wwl.lanzouv.com/b03jis8re)密码:ywcs  
+（5）8.apk安装后，返回设置-应用管理，点击右上角四个点-显示系统程序，找到Google服务框架-强行停止，然后进入存储-删除数据，返回上一题，再次进入存储-删除数据，重复这个步骤，直到打开Device ID时Google Service Framework(GSF)显示Unknown，一般来说重复四五次就行了。
+（6）完成（5）后，卸载Google服务框架。  
+（7）

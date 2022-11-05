@@ -35,8 +35,14 @@
 ## 6.解决“此设备未经过Play保护机制的弹窗
 （1）从Google Play上下载Device ID，注意是紫色的那个版本，一定要认准来。  
 （2）打开Device ID，然后退出。  
-（3）打开设置-应用服务-应用管理-Google Play服务，将其卸载。卸载可能有点慢，请耐心等待。  
+（3）打开设置-应用和服务-应用管理-Google Play服务，将其卸载。卸载可能有点慢，请耐心等待。  
 （4）卸载完成后安装[8.apk](https://wwl.lanzouv.com/b03jis8re)密码:ywcs  
 （5）8.apk安装后，返回设置-应用管理，点击右上角四个点-显示系统程序，找到Google服务框架-强行停止，然后进入存储-删除数据，返回上一题，再次进入存储-删除数据，重复这个步骤，直到打开Device ID时Google Service Framework(GSF)显示Unknown，一般来说重复四五次就行了。  
 （6）完成（5）后，卸载Google服务框架。  
-（7）
+（7）重新安装[7.apk](https://wwl.lanzouv.com/b03jis8re)密码ywcs   
+（8）这时候挂上VPN，打开Google Play随便装几款应用试试。  
+（9）进入设置-应用和服务-应用管理-Google Play服务，卸载它。  
+（10）安装[9.apk](https://wwl.lanzouv.com/b03jis8re)密码ywcs 安装可能耗时较长，请耐心等待。  
+（11）安装完成后打开Google Play，然后清除Google Play的后台，重新打开。  
+
+## 7.完成了！！！
